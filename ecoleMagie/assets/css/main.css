@@ -100,7 +100,7 @@ td, th {
 
 img {
     height: 80px;
-    object-fit: cover;
+    object-fit: contain;
     width: 80px;
 }
 
