@@ -19,7 +19,7 @@ $employe = $Crud->select("employe", "employePosteId", "ASC");
 <body>
     <nav>
         <a href="employe-index.php">Registre du personnel</a>
-        <a href="employe-create.php">Hogwards embauche!</a>
+        <a href="employe-create.php">Hogwarts embauche!</a>
     </nav>
     <main>
         <h1>Voici votre équipe</h1>
